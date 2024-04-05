@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E6EC2,100:EEE8A9&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-안녕하세요. 신시은 입니다. 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieuniii)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieuniii?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEE8A9,100:5E6EC2&reversal=true&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
