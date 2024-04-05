@@ -2,7 +2,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=28,30&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=28,30&reversal=true&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 ### Hi there 👋
 
