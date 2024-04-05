@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ed192,50:8df2c8,100:8ed192&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ed192,50:8df2c8,100:8ec9d1&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8ed192,50:8df2c8,100:8ed192&reversal=true&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8ec9d1,50:8df2c8,100:8ed192&reversal=true&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 ### Hi there 👋
 
