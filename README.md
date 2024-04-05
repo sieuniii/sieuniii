@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E6EC2,100:EEE8A9&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
-### Hi there 👋
+### 안녕하세요. 신시은 입니다. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sieuniii)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sieuniii)](https://github.com/anuraghazra/github-readme-stats)
