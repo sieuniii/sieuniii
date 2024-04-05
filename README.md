@@ -1,10 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E6EC2,100:EEE8A9&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 
+### Hi there 👋
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEE8A9,100:5E6EC2&reversal=true&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
-### Hi there 👋
 
 <!--
 **sieuniii/sieuniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
